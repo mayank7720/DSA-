@@ -50,30 +50,6 @@ with a strong focus on:
 
 ---
 
-## 🧠 Topics Covered
-
-- Arrays  
-- Strings  
-- Bit Manipulation  
-- Math  
-
----
-
-## 📈 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mayank7720?theme=light&font=Fira%20Code&ext=contest" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank7720&show_icons=true&hide_border=true" />
-</p>
-
----
 
 ## ⚡ Problem Solving Methodology
 
